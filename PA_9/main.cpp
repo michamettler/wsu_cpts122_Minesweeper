@@ -1,10 +1,10 @@
-#pragma once
-
 #include "Game.hpp"
+#include <cstdlib>
+#include <ctime>
 
 int main() {
-	Game* game = new Game();
-	game->play();
+    Game game;
+    game.run();
 
-	return 1;
+    return 0;
 }
