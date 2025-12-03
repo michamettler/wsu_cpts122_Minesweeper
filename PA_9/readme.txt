@@ -13,7 +13,7 @@ This project utilized AI assistance (Claude by Anthropic) for specific component
 
 - **Drawing Functions**: The `drawTile()`, `drawGrid()`, `drawGameOverlay()`, and `drawLegend()` functions in `Game.cpp` were developed with AI assistance for rendering game elements.
 - **Color Schemes**: The color palette used throughout the game (tile colors, number colors, status bar colors) was generated with AI assistance.
-- **Test Cases**: The automated test suite (`Test.hpp` and `Test.cpp`) was created with AI assistance to validate core game functionality.
+- **Test Cases**: The automated test suite (`TestBoard.hpp` and `TestBoard.cpp`) was created with AI assistance to validate core game functionality.
 - **Font Handling**: Cross-platform font loading implementation was developed with AI guidance.
 - **README Documentation**: This README file was generated with AI assistance.
 
